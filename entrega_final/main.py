@@ -35,3 +35,5 @@ while opcion != salir:
         buscar_libro()
     elif(opcion==6):
         bajo_stock()
+        
+limpiar_consola()
